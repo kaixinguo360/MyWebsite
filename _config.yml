@@ -1,4 +1,4 @@
-theme: jekyll-theme-architectplugins:
+theme: jekyll-theme-leap-day
   - jekyll-relative-links
 relative_links:
   enabled: true
